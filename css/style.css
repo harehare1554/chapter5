@@ -1,0 +1,23 @@
+﻿body {
+    font-family: Arial;
+    text-align: center;
+}
+header {
+    margin-bottom: 100px;
+}
+h1 {
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+.a {
+    font-size: 300%; 
+    font-family: Arial;
+}
+.b {
+    font-size: 150%; 
+    font-family: Arial;
+    padding: 1px;
+}
