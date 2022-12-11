@@ -20,4 +20,4 @@ function showDate() {
     var date = today.getFullYear() + '/' + (today.getMonth()+1) + '/' + today.getDate();
     document.getElementById("RealtimeDate").innerHTML = date;
     }
-    setInterval('showDate()',1000);
+    setInterval('showDate()',100);
