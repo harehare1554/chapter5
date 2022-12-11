@@ -12,7 +12,7 @@ function set2fig(num) {
     var msg = nowHour + ":" + nowMin + ":" + nowSec;
     document.getElementById("RealtimeClock").innerHTML = msg;
     }
-    setInterval('showClock()',1000);
+    setInterval('showClock()',100);
 
 
 function showDate() {
